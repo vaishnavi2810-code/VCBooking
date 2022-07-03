@@ -1,2 +1,2 @@
 # VCBooking
-DRDO VC booking site
+VC booking site
