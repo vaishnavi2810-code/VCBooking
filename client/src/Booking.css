@@ -1,0 +1,9 @@
+.navbar-nav>li{
+    border-right: 1px solid rgb(160, 136, 170);
+}
+.navbar-nav>li:last-child{
+    border: none;
+}
+.navbar{
+    background-color: #15235e;
+}
